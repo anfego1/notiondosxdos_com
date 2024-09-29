@@ -1,4 +1,4 @@
-# APIREST EN NODEJS para la integración del CRM ZOHO con NOTION, pertenecientes a la empresa DOSPORDOS GRUPO IMAGEN S.L.
+# Aplicación web para una integración estable entre ZOHO y NOTION, pertenecientes a la empresa DOSPORDOS GRUPO IMAGEN S.L.
 
 Esta aplicación contiene una API que está integrada con **ZOHO Y NOTION** para la empresa **DOSPORDOS GRUPO IMAGEN S.L.**. Su propósito es administrar la integración de los datos de ambas aplicaciones, a través de webhooks, workflows, funciones Delug y sincronizadores.
 
